@@ -1,0 +1,11 @@
+baseURL = 'https://splendid-pavlova-fbf620.netlify.app/'
+languageCode = 'en-us'
+title = 'Email Zipcode'
+contentDir = 'content'
+defaultLayout = 'post'
+theme = 'hugo-cards'
+paginate = 6
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

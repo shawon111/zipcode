@@ -1,0 +1,7 @@
+/*Add your custom css here. This will override any existinc thems css*/
+.panel{
+    margin-bottom: 0;
+}
+.blog-card{
+  width: 30%;
+}
